@@ -1,4 +1,4 @@
-# EventHandler
+# DestructionCannon
 
 **Número da Lista**: x<br>
 **Conteúdo da Disciplina**: Divide and Conquer<br>
