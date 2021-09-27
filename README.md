@@ -31,12 +31,5 @@ gcc sementes.c -o prog
 ## Outros 
 
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
 
 
