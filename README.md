@@ -15,6 +15,8 @@ Neste projeto nós resolvemos alguns problemas utilizando estratégias de dividi
 ## Screenshots
 ![alt text](./classificados.jpg)
 ![alt text](./testandoClassificados.jpg)
+![alt text](./submissao-1288.png)
+![alt text](./submissao-1487.png)
 
 ## Instalação 
 **Linguagem**: C, C++<br>
@@ -24,8 +26,8 @@ Para rodar o problema sementes, basta executar os seguintes comandos no terminal
 
 ```console
 gcc sementes.c -o prog
-./prog < teste
-./prog < teste2
+./prog < ./arquivos-de-entrada/teste
+./prog < ./arquivos-de-entrada/teste2
 ```
 Para rodar o problema Six Flags, basta executar os seguintes comandos no terminal:
 
