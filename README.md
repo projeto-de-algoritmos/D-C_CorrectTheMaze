@@ -32,13 +32,13 @@ gcc sementes.c -o prog
 Para rodar o problema Six Flags, basta executar os seguintes comandos no terminal:
 
 ```console
-gcc 1487.cpp -o prog
+g++ 1487.cpp -o prog
 ./prog < ./arquivos-de-entrada/1487-entrada.in
 ```
 Para rodar o problema Destruction Cannon, basta executar os seguintes comandos no terminal:
 
 ```console
-gcc 1288.cpp -o prog
+g++ 1288.cpp -o prog
 ./prog < ./arquivos-de-entrada/1288-entrada.in
 ```
 ## Outros 
